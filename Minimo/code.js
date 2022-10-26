@@ -1,5 +1,12 @@
 function minimo(a, b) {
-    // code
+    
+    if (a < b)
+    return a;
+    else 
+      return b;
+          
+      
 }
+
 
 module.exports = minimo
