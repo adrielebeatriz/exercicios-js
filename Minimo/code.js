@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function minimo(a, b) {
     
     if (a < b)
@@ -6,6 +7,10 @@ function minimo(a, b) {
       return b;
           
       
+=======
+function minimo() {
+    // code
+>>>>>>> c24f17a07706aba99ca9e2f42e5c686960d0e069
 }
 
 
